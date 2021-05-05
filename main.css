@@ -1,0 +1,5 @@
+@import url(./someFolder/other.css);
+
+div {
+    padding: 5px;
+}

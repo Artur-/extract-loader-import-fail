@@ -1,0 +1,5 @@
+@import url(./anotherFolder/anotherCss.css);
+
+p {
+    font-weight: bold;
+}
